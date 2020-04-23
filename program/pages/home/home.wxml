@@ -1,2 +1,3 @@
 <!--pages/home/home.wxml-->
 <text>helloworld</text>
+<view>知识点二</view>
